@@ -1,0 +1,1 @@
+./tmog gen [ARGS]
